@@ -1,0 +1,5 @@
+Django==1.10
+tsuru_dashboard==0.4.0-rc10
+tsuru_autoscale==0.1.8
+gunicorn==19.3.0
+gevent==1.1b6
