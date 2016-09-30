@@ -87,3 +87,15 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+.DS_Store
+.coverage
+.venv
+htmlcov
+local_settings.py
+node_modules
+coverage
+build
+dist
+db.sqlite3
+static
